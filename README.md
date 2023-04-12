@@ -20,8 +20,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/fun-project-faqaccordioncardmain-PfJAXNawBI)
+- Live Site URL: [URL](https://unl00ky.github.io/card-challenge/)
 
 ## My process
 
